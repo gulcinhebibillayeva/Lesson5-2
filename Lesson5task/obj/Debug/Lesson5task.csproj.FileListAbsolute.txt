@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Step\c#\Tasks\Lesson5task\Lesson5task\bin\Debug\Lesson5task.exe.config
+C:\Users\Admin\Desktop\Step\c#\Tasks\Lesson5task\Lesson5task\bin\Debug\Lesson5task.exe
+C:\Users\Admin\Desktop\Step\c#\Tasks\Lesson5task\Lesson5task\bin\Debug\Lesson5task.pdb
+C:\Users\Admin\Desktop\Step\c#\Tasks\Lesson5task\Lesson5task\obj\Debug\Lesson5task.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Step\c#\Tasks\Lesson5task\Lesson5task\obj\Debug\Lesson5task.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Step\c#\Tasks\Lesson5task\Lesson5task\obj\Debug\Lesson5task.exe
+C:\Users\Admin\Desktop\Step\c#\Tasks\Lesson5task\Lesson5task\obj\Debug\Lesson5task.pdb
